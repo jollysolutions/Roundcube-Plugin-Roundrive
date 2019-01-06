@@ -5,6 +5,7 @@
  *
  * @version @package_version@
  * @author Thomas Payen <thomas.payen@apitech.fr>
+ * @author Marcus Proest <marcus@proest.net>
  *
  * This plugin is inspired by kolab_files plugin
  * Use flysystem library : https://github.com/thephpleague/flysystem
